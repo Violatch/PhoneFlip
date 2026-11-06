@@ -42,13 +42,6 @@
 
 ### Запуск
 
-Клонируйте репозиторий и перейдите в папку проекта:
-
-```bash
-git clone https://github.com/Violatch/phone-flip.git
-cd phone-flip
-```
-
 Установите зависимость:
 
 ```bash
