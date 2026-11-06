@@ -141,9 +141,8 @@ python phone_flip_v4.py
 | `phone_flip_settings.json` | Настройки |
 | `phone_flip_music_v1.wav` | Кэш сгенерированной фоновой музыки |
 
-Эти файлы создаются во время игры. Необязательно добавлять личные сохранения и настройки в Git-репозиторий. Их можно исключить через `.gitignore`:
+Эти файлы создаются во время игры.
 
-```gitignore
 phone_flip_save_v3.json
 phone_flip_settings.json
 phone_flip_music_v1.wav
