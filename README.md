@@ -45,7 +45,7 @@
 Клонируйте репозиторий и перейдите в папку проекта:
 
 ```bash
-git clone https://github.com/ВАШ-АККАУНТ/phone-flip.git
+git clone https://github.com/Violatch/phone-flip.git
 cd phone-flip
 ```
 
